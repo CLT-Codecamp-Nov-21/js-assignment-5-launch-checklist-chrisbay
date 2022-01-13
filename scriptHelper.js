@@ -91,7 +91,7 @@ function formSubmission(document, list, pilot, copilot, fuelLevel, cargoLevel) {
         statusContainer.innerHTML = "Shuttle Not Ready for Launch";
         statusContainer.style.color = "rgb(199, 37, 78)";
     } else {
-        statusContainer.innerHTML = "Shuttle is ready for launch";
+        statusContainer.innerHTML = "Shuttle is Ready for Launch";
         statusContainer.style.color = "rgb(65, 159, 106)";
     }
 
